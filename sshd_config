@@ -1,0 +1,7 @@
+PasswordAuthentication no
+AllowTcpForwarding yes
+X11Forwarding no
+PermitTunnel no
+GatewayPorts no
+AllowAgentForwarding no
+ForceCommand echo 'This server can only be used for reverse tunnel'
